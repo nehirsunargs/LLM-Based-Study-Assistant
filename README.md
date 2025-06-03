@@ -1,4 +1,4 @@
-# AI Study Buddy
+# AI-Powered Concept Explainer 
 
 AI Study Buddy is a web application that allows users to get explanations for various concepts using an AI-powered backend. The app lets you input a concept, and it will provide an explanation powered by the Mistral-7B-Instruct model.
 
