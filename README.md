@@ -35,8 +35,8 @@ AI Study Buddy is a web application that allows users to get explanations for va
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nehirsunargs/ai-study-buddy.git
-cd ai-study-buddy
+git clone https://github.com/nehirsunargs/StudyAssistant.git
+cd StudyAssistant
 ```
 
 #### 2. Install Backend Dependencies
